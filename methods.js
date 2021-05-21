@@ -1,0 +1,15 @@
+let text=' Sahil Kamleshwar';
+let result=text.length;
+console.log(result);
+console.log(text.toLocaleLowerCase());
+console.log(text.toLocaleUpperCase());
+console.log(text.charAt(0));
+console.log(text.charAt(12));
+console.log(text.charAt(text.result-1));
+console.log(text.indexOf('S'));
+console.log(text);
+console.log(text.trim());
+console.log(text.startsWith(' Sahil'));
+console.log(text.trim().toLocaleLowerCase().startsWith('sahil'));
+console.log(text.includes('shwar'));
+console.log(text.slice(0,2));
